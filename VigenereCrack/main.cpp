@@ -3,6 +3,7 @@
 #include <math.h>
 #include <algorithm>
 #include <ctype.h>
+#include <cstdio>
 
 #define MAXIMUM_KEY_LENGTH 13
 const int asciiSymbols = (int)pow(2, 8);
